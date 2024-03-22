@@ -2,8 +2,7 @@
 [The Movie Database](https://developer.themoviedb.org/reference/intro/getting-started)
 
 [Web Site](https://movies-hub-psi.vercel.app/)
-![image](![image](https://github.com/ValafarL/mh-project/assets/121062556/9fda92dd-ac83-4aa8-be2b-f8da4f490e7c)
-)
+![image](https://github.com/ValafarL/mh-project/assets/121062556/9fda92dd-ac83-4aa8-be2b-f8da4f490e7c)
 
 # About this project
 - Its a simple web site that use a third-party API to learn how it works.
