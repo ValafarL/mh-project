@@ -9,7 +9,7 @@
 - I used an API to get movies and tv series data from The Movie Data Base API.
 - Datas used: title, description, launch date, genres, rating, youtube key trailer, movie time or number of episodes for TvShows.
 - I integrated with YouTube to show the trailers using react-youtube, that uses an YouTube key provided by the API to get the videos.
-- You can search for movies or tv series using the search bar and then it uses the input to search in the API by query parameters.
+- You can search for movies or tv series using the search bar.
 
 ---
 # Getting Started with Create React App
